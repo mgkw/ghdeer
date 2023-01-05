@@ -1,0 +1,12 @@
+Buster: Captcha Solver for Humans
+
+hCaptcha Solver
+
+History & Cache Cleaner for Google Chrome™
+
+Popup Blocker (strict)
+
+Random User-Agent (Switcher)
+
+
+Tampermonkey
